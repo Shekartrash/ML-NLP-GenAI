@@ -133,3 +133,20 @@ gitkey.pub
 ## venv
 ML-NLP-venv/Lib
 ML-NLP-venv/
+
+# Ignore log files
+*.log
+
+# Ignore all node_modules
+node_modules/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
