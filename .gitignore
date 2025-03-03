@@ -131,4 +131,5 @@ dmypy.json
 gitkey
 gitkey.pub
 ## venv
-ML-NLP-venv
+ML-NLP-venv/Lib
+ML-NLP-venv/
